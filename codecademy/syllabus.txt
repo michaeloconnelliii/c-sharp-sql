@@ -1,0 +1,8 @@
+- Data types and variables
+- Logic and Conditionals
+- Methods
+- Arrays and Loops
+- Classes and Objects
+- Interfaces and Inheritance
+- References
+- Lists and LINQ
