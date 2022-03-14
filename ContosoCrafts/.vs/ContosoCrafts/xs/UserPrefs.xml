@@ -1,28 +1,9 @@
 ﻿<Properties StartupConfiguration="{66F39E0C-130B-4615-ABFE-A70507BE080F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoCrafts/Components/ProductList.razor">
-    <Files>
-      <File FileName="ContosoCrafts/Pages/Index.cshtml" Line="1" Column="6" />
-      <File FileName="ContosoCrafts/Pages/Index.cshtml.cs" Line="32" Column="1" />
-      <File FileName="ContosoCrafts/wwwroot/data/Products.json" Line="23" Column="4" />
-      <File FileName="ContosoCrafts/Models/Product.cs" Line="2" Column="5" />
-      <File FileName="ContosoCrafts/Services/JsonFileProductsService.cs" Line="63" Column="10" />
-      <File FileName="ContosoCrafts/Program.cs" Line="1" Column="1" />
-      <File FileName="ContosoCrafts/Startup.cs" Line="59" Column="44" />
-      <File FileName="ContosoCrafts/wwwroot/css/site.css" Line="144" Column="1" />
-      <File FileName="ContosoCrafts/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="ContosoCrafts/Controller/ProductsController.cs" Line="33" Column="10" />
-      <File FileName="ContosoCrafts/Components/ProductList.razor" Line="1" Column="15" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ContosoCrafts" expanded="True">
-            <Node name="ContosoCrafts" expanded="True">
-              <Node name="Components" expanded="True">
-                <Node name="ProductList.razor" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="ContosoCrafts" selected="True" />
         </State>
       </Pad>
     </Pads>
